@@ -1,7 +1,7 @@
 name: GradedCategories
-version: "2020.10-04"
+version: "2020.12-01"
 license: "GPL-2.0-or-later"
-date: 2020-10-20
+date: 2020-12-04
 description: |
     Graded closures of categories
 
@@ -36,19 +36,19 @@ needed-pkgs:
 suggested-pkgs:
     - name: "IO_ForHomalg"
       version: ">= 2019.01.01"
-      url: "https://homalg-project.github.io/homalg_project/IO_ForHomalg"
+      url: "https://homalg-project.github.io/pkg/IO_ForHomalg"
 
-www: https://homalg-project.github.io/GradedCategories
+www: https://homalg-project.github.io/pkg/GradedCategories
 readme: README.md
 packageinfo: https://homalg-project.github.io/GradedCategories/PackageInfo.g
 
 downloads:
     - name: .tar.gz
-      url: https://github.com/homalg-project/GradedCategories/releases/download/v2020.10-04/GradedCategories-2020.10-04.tar.gz
+      url: https://github.com/homalg-project/GradedCategories/releases/download/v2020.12-01/GradedCategories-2020.12-01.tar.gz
     - name: .zip
-      url: https://github.com/homalg-project/GradedCategories/releases/download/v2020.10-04/GradedCategories-2020.10-04.zip
+      url: https://github.com/homalg-project/GradedCategories/releases/download/v2020.12-01/GradedCategories-2020.12-01.zip
 
-pdf: https://github.com/homalg-project/GradedCategories/releases/download/v2020.10-04/GradedCategories-2020.10-04.pdf
+pdf: https://github.com/homalg-project/GradedCategories/releases/download/v2020.12-01/GradedCategories-2020.12-01.pdf
 
 abstract: |
 
@@ -61,24 +61,25 @@ citeas: |
     <p class='BibEntry'>
     [<span class='BibKey'>BZ20</span>]   <b class='BibAuthor'>Barakat, M. and Zickgraf, F.</b>,
      <i class='BibTitle'>GradedCategories, Graded closures of categories,
-             Version 2020.10-04</i>
+             Version 2020.12-01</i>
      (<span class='BibYear'>2020</span>)<br />
     (<span class='BibNote'>GAP package</span>),
-    <span class='BibHowpublished'><a href="https://homalg-project.github.io/GradedCategories">https://homalg-project.github.io/GradedCategories</a></span>.
+    <span class='BibHowpublished'><a href="https://homalg-project.github.io/pkg/GradedCategories">https://homalg-project.github.io/pkg/GradedCategories</a></span>.
     </p>
     
 
 bibtex: |
-    @misc{ GradedCategories2020.10-04,
+    @misc{ GradedCategories2020.12-01,
       author =           {Barakat, M. and Zickgraf, F.},
       title =            {{GradedCategories},  Graded  closures  of  categories,
-                          {V}ersion 2020.10-04},
-      month =            {Oct},
+                          {V}ersion 2020.12-01},
+      month =            {Dec},
       year =             {2020},
       note =             {GAP package},
       howpublished =     {\href
-                          {https://homalg-project.github.io/GradedCategories}
+                          {https://homalg-project.github.io/pkg/GradedCategories}
                           {\texttt{https://homalg-project.github.io/}\discretionary
+                          {}{}{}\texttt{pkg/}\discretionary
                           {}{}{}\texttt{GradedCategories}}},
       keywords =         {Graded categories},
       printedkey =       {BZ20}
