@@ -13,10 +13,10 @@ Subtitle := "Graded closures of categories",
 Version := Maximum( [
                    "2020.12-01", ## Mohamed's version
                    ## this line prevents merge conflicts
-                   "2020.08-29", ## Fabian's version
+                   "2021.04-01", ## Fabian's version
                    ] ),
 
-Date := "04/12/2020",
+Date := "14/04/2021",
 License := "GPL-2.0-or-later",
 
 
