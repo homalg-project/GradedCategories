@@ -1,5 +1,5 @@
 name: GradedCategories
-version: "2021.05-01"
+version: "2021.05-02"
 license: "GPL-2.0-or-later"
 date: 2021-05-15
 description: |
@@ -24,7 +24,7 @@ needed-pkgs:
       version: ">= 1.5"
       url: "http://www.math.rwth-aachen.de/~Frank.Luebeck/GAPDoc"
     - name: "CAP"
-      version: ">= 2019.10.29"
+      version: ">= 2021.05-02"
       url: "https://homalg-project.github.io/pkg/CAP"
     - name: "InfiniteLists"
       version: ">= 2017.08.01"
@@ -44,11 +44,11 @@ packageinfo: https://homalg-project.github.io/GradedCategories/PackageInfo.g
 
 downloads:
     - name: .tar.gz
-      url: https://github.com/homalg-project/GradedCategories/releases/download/v2021.05-01/GradedCategories-2021.05-01.tar.gz
+      url: https://github.com/homalg-project/GradedCategories/releases/download/v2021.05-02/GradedCategories-2021.05-02.tar.gz
     - name: .zip
-      url: https://github.com/homalg-project/GradedCategories/releases/download/v2021.05-01/GradedCategories-2021.05-01.zip
+      url: https://github.com/homalg-project/GradedCategories/releases/download/v2021.05-02/GradedCategories-2021.05-02.zip
 
-pdf: https://github.com/homalg-project/GradedCategories/releases/download/v2021.05-01/GradedCategories-2021.05-01.pdf
+pdf: https://github.com/homalg-project/GradedCategories/releases/download/v2021.05-02/GradedCategories-2021.05-02.pdf
 
 abstract: |
 
@@ -61,7 +61,7 @@ citeas: |
     <p class='BibEntry'>
     [<span class='BibKey'>BZ21</span>]   <b class='BibAuthor'>Barakat, M. and Zickgraf, F.</b>,
      <i class='BibTitle'>GradedCategories, Graded closures of categories,
-             Version 2021.05-01</i>
+             Version 2021.05-02</i>
      (<span class='BibYear'>2021</span>)<br />
     (<span class='BibNote'>GAP package</span>),
     <span class='BibHowpublished'><a href="https://homalg-project.github.io/pkg/GradedCategories">https://homalg-project.github.io/pkg/GradedCategories</a></span>.
@@ -69,10 +69,10 @@ citeas: |
     
 
 bibtex: |
-    @misc{ GradedCategories2021.05-01,
+    @misc{ GradedCategories2021.05-02,
       author =           {Barakat, M. and Zickgraf, F.},
       title =            {{GradedCategories},  Graded  closures  of  categories,
-                          {V}ersion 2021.05-01},
+                          {V}ersion 2021.05-02},
       month =            {May},
       year =             {2021},
       note =             {GAP package},
