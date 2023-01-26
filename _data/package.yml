@@ -1,7 +1,7 @@
 name: GradedCategories
-version: "2022.11-01"
+version: "2023.01-01"
 license: "GPL-2.0-or-later"
-date: 2022-11-03
+date: 2023-01-26
 description: |
     Graded closures of categories
 
@@ -36,11 +36,11 @@ packageinfo: https://homalg-project.github.io/GradedCategories/PackageInfo.g
 
 downloads:
     - name: .tar.gz
-      url: https://github.com/homalg-project/GradedCategories/releases/download/v2022.11-01/GradedCategories-2022.11-01.tar.gz
+      url: https://github.com/homalg-project/GradedCategories/releases/download/v2023.01-01/GradedCategories-2023.01-01.tar.gz
     - name: .zip
-      url: https://github.com/homalg-project/GradedCategories/releases/download/v2022.11-01/GradedCategories-2022.11-01.zip
+      url: https://github.com/homalg-project/GradedCategories/releases/download/v2023.01-01/GradedCategories-2023.01-01.zip
 
-pdf: https://github.com/homalg-project/GradedCategories/releases/download/v2022.11-01/GradedCategories-2022.11-01.pdf
+pdf: https://github.com/homalg-project/GradedCategories/releases/download/v2023.01-01/GradedCategories-2023.01-01.pdf
 
 abstract: |
 
@@ -51,22 +51,22 @@ keywords: |
     Graded categories.
 citeas: |
     <p class='BibEntry'>
-    [<span class='BibKey'>BZ22</span>]   <b class='BibAuthor'>Barakat, M. and Zickgraf, F.</b>,
+    [<span class='BibKey'>BZ23</span>]   <b class='BibAuthor'>Barakat, M. and Zickgraf, F.</b>,
      <i class='BibTitle'>GradedCategories, Graded closures of categories,
-             Version 2022.11-01</i>
-     (<span class='BibYear'>2022</span>)<br />
+             Version 2023.01-01</i>
+     (<span class='BibYear'>2023</span>)<br />
     (<span class='BibNote'>GAP package</span>),
     <span class='BibHowpublished'><a href="https://homalg-project.github.io/pkg/GradedCategories">https://homalg-project.github.io/pkg/GradedCategories</a></span>.
     </p>
     
 
 bibtex: |
-    @misc{ GradedCategories2022.11-01,
+    @misc{ GradedCategories2023.01-01,
       author =           {Barakat, M. and Zickgraf, F.},
       title =            {{GradedCategories},  Graded  closures  of  categories,
-                          {V}ersion 2022.11-01},
-      month =            {Nov},
-      year =             {2022},
+                          {V}ersion 2023.01-01},
+      month =            {Jan},
+      year =             {2023},
       note =             {GAP package},
       howpublished =     {\href
                           {https://homalg-project.github.io/pkg/GradedCategories}
@@ -74,6 +74,6 @@ bibtex: |
                           {}{}{}\texttt{pkg/}\discretionary
                           {}{}{}\texttt{GradedCategories}}},
       keywords =         {Graded categories},
-      printedkey =       {BZ22}
+      printedkey =       {BZ23}
     }
 
